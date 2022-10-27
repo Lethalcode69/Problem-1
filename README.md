@@ -1,5 +1,5 @@
 # Problem-1
 Problem-1 statement to design a UI and showcase the essential design matches the prefered conditions according to the given statement..
-![Web 1920 – 1](https://user-images.githubusercontent.com/98172845/198373684-61bdb63d-e964-4b22-a05e-2acd7ba7ad3e.png)
-![Web 1920 – 2](https://user-images.githubusercontent.com/98172845/198373690-d76d64a0-ea9b-46d6-bb2e-2baf02f20884.png)
-![Web 1920 – 3](https://user-images.githubusercontent.com/98172845/198373694-5ae6af6a-a8a8-466e-83df-49becf81b2cd.png)
+![1](https://user-images.githubusercontent.com/98172845/198400546-e89daf33-88d3-493e-ae09-711cab8a7b0b.png)
+![2](https://user-images.githubusercontent.com/98172845/198400548-36750c5f-8217-41bb-baeb-c4c42e907b14.png)
+![3](https://user-images.githubusercontent.com/98172845/198400549-6ad2796f-6657-4196-9590-e0454ba2aacd.png)
